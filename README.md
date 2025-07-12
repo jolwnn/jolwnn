@@ -3,9 +3,9 @@
 
 - 🔭 Take a look at my most recent project [**Snippet Monster**](https://snippet-monster.vercel.app/) **(Vite, React, Typescript, TailwindCSS, Shadcn, Supabase)**
 
-- 🌱 I’m currently learning **full-stack development with various frameworks**
+- 🌱 I’m currently learning multi-threaded programming, C++, applied AI, and data engineering. (Sounds like a lot, I know! These days, I feel like 24 hours in a day is not enough...)
 
-- 🎓 In school, I am currently taking courses on **operating systems and artificial intelligience**. I have completed courses in **data structures and algorithms, computer organisation, computer networks, database systems, IT management, and software engineering practices**
+- 🎓 In school, I am currently taking courses on **Big Data and Concurrent Programming**. I have completed courses in **data structures and algorithms, computer organisation, computer networks, database systems, software engineering, operating systems and artificial intelligience***
 
 - 👀 Checkout [**my portfolio website**](https://jolynn-wee.vercel.app/)! (WIP)
 
