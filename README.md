@@ -7,17 +7,6 @@
 
 - 👀 Checkout [**my portfolio website**](https://jolynn-wee.vercel.app/)! (WIP)
 
-### **Skills & Technologies** 🚀
-
-- Languages:  
-**Java** • **JavaScript / TypeScript** • **Python** • **C** • **Go**  
-- Frontend Technologies:  
-**React** • **Next.js** • **HTML, CSS** • **Tailwind CSS** • **Vite** • **ShadCN**  
-- Backend & Databases:  
-**PostgreSQL** • **MySQL** • **MongoDB** • **Node.js** • **Go (Gin, Fiber)** • **Drizzle ORM** • **Redis** • **RESTful APIs, Authentication**  
-- Other Tools / Skills:  
-**Git** • **AWS** • **Docker** • **Jira / Confluence**  
-
 ---
 
 <h3 align="left">Connect with me</h3>
